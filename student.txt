@@ -1,3 +1,5 @@
 Name: Riya Renavikar
 Course: MCA
 College: MIT-WPU
+
+Subject: Git and GitHub Practical
